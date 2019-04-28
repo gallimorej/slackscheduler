@@ -1,6 +1,6 @@
 # slackscheduler
 
-FIXME: description
+A command line utility that schedules messages in a Slack workspace.
 
 ## Installation
 
@@ -34,3 +34,4 @@ Copyright © 2019 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
